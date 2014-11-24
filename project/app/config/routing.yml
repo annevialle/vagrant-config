@@ -1,0 +1,5 @@
+cergy_news:
+    resource: "@CergyNewsBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

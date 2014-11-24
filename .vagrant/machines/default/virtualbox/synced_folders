@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/annevialle/projetphp","disabled":false}}}
+{"nfs":{"/var/www/symfony":{"type":"nfs","guestpath":"/var/www/symfony","hostpath":"/Users/annevialle/projetphp/project","disabled":false,"map_uid":503,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"3397179529"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/annevialle/projetphp","disabled":false}}}
